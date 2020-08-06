@@ -6,3 +6,5 @@
 Excel과 Minitab을 활용하여 프로젝트를 진행하였습니다.
 
 ![1](./2017_Minitab_Poster_Contest.jpg)
+
+![상장](./미니탭.jpg)
